@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+.dockerignore
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.idea/
+.vscode/
+
+# Environment Variables
+.env
